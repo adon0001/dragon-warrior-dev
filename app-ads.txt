@@ -1,0 +1,2 @@
+# Dragon-Warrior app-ads.txt
+google.com, pub-5095903433430438, DIRECT, f08c47fec0942fa0
